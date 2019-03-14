@@ -1,12 +1,13 @@
-# <Title>
+# Kommunerna som lever på offentlig sektor
 
-**<Kort beskrivning av innehållet i repot>** Relevanta länkar finns i notebooken.
+Dagens samhälle publicerade den 28 februari en artikel om hur stor andel av kommunens arbetande befolkning som har kommunen eller regionen som arbetsgivare. Mer info och relevanta länkar finns i notebooken.
 
 Vid eventuella frågor är det bara att höra av sig till min mejl: johan.ekman@dagenssamhalle.se
 
 Ansvarig utgivare: Olov Carlsson
 
 
+***
 
 
 ## Usage
